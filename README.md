@@ -1,4 +1,4 @@
-# flutter_time_tracker_app
+# flutter time tracker app
 
 “Time Tracker App ” is a small, simple app, It can help you keep track of your work plans. If you happen to have the multiple jobs, then it will help you keeping track of .
 ## Getting Started
